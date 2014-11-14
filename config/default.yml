@@ -1,0 +1,9 @@
+contentful:
+  api:
+    access_token: default
+    space_id: default
+  content_type:
+    leadership_profile_id: default
+    corporate_information_id: default
+    team_overview_id: default
+    location_id: default
